@@ -7,12 +7,12 @@ This report documents my work in the COP 610 Cryptography Lab, where I explored 
 
 Key Accomplishments
 - Conducted symmetric key encryption using various ciphers and modes.
-Deployed certificates for an HTTPS web server using OpenSSL.
-Configured an Apache server to support self-signed certificates.
-Analyzed the effects of changing encryption parameters like key and IV values.
-Utilized Wireshark to demonstrate data visibility in HTTP and HTTPS.
-Performed frequency analysis to decrypt messages and discover encryption keys.
-Resolved challenges encountered during certificate generation and server configuration.
+- Deployed certificates for an HTTPS web server using OpenSSL.
+- Configured an Apache server to support self-signed certificates.
+- Analyzed the effects of changing encryption parameters like key and IV values.
+- Utilized Wireshark to demonstrate data visibility in HTTP and HTTPS.
+- Performed frequency analysis to decrypt messages and discover encryption keys.
+- Resolved challenges encountered during certificate generation and server configuration.
 
 
 #### Project Details:
