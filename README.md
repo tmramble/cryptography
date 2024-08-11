@@ -6,7 +6,7 @@
 This report documents my work in the COP 610 Cryptography Lab, where I explored various encryption techniques, symmetric key algorithms, and their implications for data security. Through hands-on experiments using tools such as OpenSSL and Wireshark, I gained insights into symmetric key encryption, Public Key Infrastructure (PKI), and the vulnerabilities associated with hash functions.
 
 Key Accomplishments
-Conducted symmetric key encryption using various ciphers and modes.
+- Conducted symmetric key encryption using various ciphers and modes.
 Deployed certificates for an HTTPS web server using OpenSSL.
 Configured an Apache server to support self-signed certificates.
 Analyzed the effects of changing encryption parameters like key and IV values.
